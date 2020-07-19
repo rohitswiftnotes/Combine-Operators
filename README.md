@@ -3,74 +3,74 @@ This is a collection of operators in Apple's Combine Framework
 
 ## Transforming Operators
 
-* Collect
+* ### Collect
 ![alt collect-operator](previews/collect-operator.png)
 
-* Scan
+* ### Scan
 ![alt scan-operator](previews/scan-operator.png)
 
-* Map
+* ### Map
 ![alt map-operator](previews/map-operator.png)
 
-* Map KeyPath
+* ### Map KeyPath
 ![alt map-keypath-operator](previews/map-keypath-operator.png)
 
-* FlatMap
+* ### FlatMap
 ![alt flatmap-operator](previews/flat-map-operator.png)
 
-* ReplaceEmpty
+* ### ReplaceEmpty
 ![alt replace-empty-operator](previews/replace-empty-operator.png)
 
-* ReplaceNil
+* ### ReplaceNil
 ![alt replace-nil-operator](previews/replace-nil-operator.png)
 
 ## Filtering Operators
 
-* Filter
+* ### Filter
 ![alt filter-operator](previews/filter-operator.png)
 
-* CompactMap
+* ### CompactMap
 ![alt compact-map-operator](previews/compact-map-operator.png)
 
-* IgnoreOutput
+* ### IgnoreOutput
 ![alt ignore-output-operator](previews/ignore-output-operator.png)
 
-* First
+* ### First
 ![alt first-operator](previews/first-operator.png)
 
-* Last
+* ### Last
 ![alt last-operator](previews/last-operator.png)
 
-* DropFirst
+* ### DropFirst
 ![alt drop-first-operator](previews/drop-first-operator.png)
 
-* DropWhile
+* ### DropWhile
 ![alt drop-while-operator](previews/drop-while-operator.png)
 
-* DropUntilOutputForm
-![alt drop-until-output-form-operator](previews/drop-until-output-form-operator.png)
+* ### DropUntilOutputForm
+![alt drop-until-output-fr0m-operator](previews/drop-until-output-from-operator.png)
 
-* RemoveDuplicates
+* ### RemoveDuplicates
 ![alt remove-duplicates-operator](previews/remove-duplicates-operator.png)
 
-* Prefix
+* ### Prefix
 ![alt prefix-operator](previews/prefix-operator.png)
 
 ## Combining Operators
 
-* Prepend
+* ### Prepend
 ![alt prepend-operator](previews/prepend-operator.png)
 
-* Append
+* ### Append
 ![alt append-operator](previews/append-operator.png)
 
-* SwitchToLatest
+* ### SwitchToLatest
 ![alt switch-to-latest-operator](previews/switch-to-latest-operator.png)
 
-* Merge
+* ### Merge
 ![alt merge-operator](previews/merge-operator.png)
 
-* CombineLatest
+* ### CombineLatest
 ![alt combine-latest-operator](previews/combine-latest-operator.png)
 
 # Credits
