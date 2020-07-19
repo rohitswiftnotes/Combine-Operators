@@ -1,6 +1,8 @@
 # Combine-Operators
 List of operators in Combine Framework
 
+# Transforming Operators
+
 ## Collect
 ![alt collect-operator](previews/collect-operator.png)
 
@@ -21,3 +23,29 @@ List of operators in Combine Framework
 
 ## ReplaceNil
 ![alt replace-nil-operator](previews/replace-nil-operator.png)
+
+# Filtering Operators
+
+## Filter
+![alt filter-operator](previews/filter-operator.png)
+
+## CompactMap
+![alt compact-map-operator](previews/compact-map-operator.png)
+
+## IgnoreOutput
+![alt ignore-output-operator](previews/ignore-output-operator.png)
+
+## First
+![alt first-operator](previews/first-operator.png)
+
+## Last
+![alt last-operator](previews/last-operator.png)
+
+## DropFirst
+![alt drop-first-operator](previews/drop-first-operator.png)
+
+## DropWhile
+![alt drop-while-operator](previews/drop-while-operator.png)
+
+## RemoveDuplicates
+![alt remove-duplicates-operator](previews/remove-duplicates-operator.png)
