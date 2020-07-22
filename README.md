@@ -51,7 +51,7 @@ This is a collection of operators in Apple's Combine Framework
 * ### DropWhile
 ![alt drop-while-operator](previews/drop-while-operator.png)
 
-* ### DropUntilOutputForm
+* ### DropUntilOutputFrom
 ![alt drop-until-output-from-operator](previews/drop-until-output-from-operator.png)
 
 * ### RemoveDuplicates
